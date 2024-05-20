@@ -1,0 +1,15 @@
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\bin\Debug\Smartwindow.exe.config
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\bin\Debug\Smartwindow.exe
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\bin\Debug\Smartwindow.pdb
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.csproj.AssemblyReference.cache
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.Form1.resources
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.Properties.Resources.resources
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.csproj.GenerateResource.cache
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.csproj.CoreCompileInputs.cache
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.exe
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.pdb
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.Form2.resources
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\Smartwindow.Form3.resources
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\SmartWindowApp.Form1.resources
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\SmartWindowApp.Form2.resources
+C:\Users\c1han\source\repos\Smartwindow\Smartwindow\obj\Debug\SmartWindowApp.Form3.resources
